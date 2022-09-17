@@ -5,19 +5,19 @@ JOBS=[
   {
     'id':1,
     'title':'Data Analyst',
-    'location':'Bengaluru,India',
+    'Company':'Infosys(Bengaluru)',
     'Salary':'Rs.10,00,000'
   },
   {
     'id':2,
     'title':'Data Scientist',
-    'location':'Delhi,India',
+    'Company':'TCS(Pune)',
     'Salary':'Rs.15,00,000'
   },
   {
     'id':3,
     'title':'Frontend Developer',
-    'location':'Remote'
+    'Company':'Wipro(Remote)'
   }
 ]
 
