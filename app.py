@@ -18,6 +18,12 @@ JOBS=[
     'id':3,
     'title':'Frontend Developer',
     'Company':'Wipro(Remote)'
+  },
+  {
+    'id':4,
+    'title':'Backend Developer',
+    'Company':'Capgemini',
+    'Salary':'Rs.12,00,000'
   }
 ]
 
